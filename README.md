@@ -8,10 +8,10 @@ I'm focused on creating end-to-end data products: from data collection and model
 
 ## 🧠 About Me
 
+- 💡 **Creative** and solutions-oriented thinker, turning ideas into practical tools.
 - 🔎 I enjoy **solving problems** with data and making insights visually intuitive.
 - 📊 Fan of **clean charts**, smart automation, and explainable ML models.
-- 💡 **Creative and solutions-oriented thinker**, turning ideas into practical tools.
-- 🤝 **Open to collaboration**, freelance projects, or simply exchanging ideas.
+- 🤝 Open to **collaboration**, freelance projects, or simply exchanging ideas.
 ---
 
 ## 🛠️ Technologies I Use
@@ -42,9 +42,9 @@ I'm focused on creating end-to-end data products: from data collection and model
 
 | Project | Description |
 |--------|-------------|
-| [💱 exchange-rate-visualizer](https://github.com/YOUR-USERNAME/exchange-rate-visualizer) | Interactive app using Streamlit + LSTM to analyze and forecast exchange rates with data from the Frankfurter API. |
-| [🏠 analisis-inmobiliario](https://github.com/YOUR-USERNAME/analisis-inmobiliario) | Real estate price analysis and visualization using Python and open datasets. |
-| [🎯 jjoo](https://github.com/YOUR-USERNAME/jjoo) | Olympic Games data analysis: medals, trends, and country insights using pandas + seaborn. |
+| [💱 exchange-rate-visualizer](https://github.com/JM181998/exchange-rate-visualizer) | Interactive app using Streamlit + LSTM to analyze and forecast exchange rates from Frankfurter API. |
+| [🏠 analisis-inmobiliario](https://github.com/JM181998/ANALISIS-INMOBILIARIO) | Real estate price analysis and visualization using Python and open datasets. |
+| [🎯 jjoo](https://github.com/JM181998/EDA-Olympics) | Exploratory Data Analysis (EDA) on the modern Olympic Games  from 1986 to 2012. |
 
 ---
 
