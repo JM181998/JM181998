@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Juanma Fuentes
+# 👋 Hi there! I'm Juanma
 
 🎯 **Data Scientist & Data Analyst** | Passionate about turning data into real-world solutions.
 
