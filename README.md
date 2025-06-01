@@ -43,7 +43,7 @@ I'm focused on creating end-to-end data products: from data collection and model
 | Project | Description |
 |--------|-------------|
 | [💱 exchange-rate-visualizer](https://github.com/JM181998/exchange-rate-visualizer) | Interactive app using Streamlit + LSTM to analyze and forecast exchange rates from Frankfurter API. |
-| [🏠 analisis-inmobiliario](https://github.com/JM181998/ANALISIS-INMOBILIARIO) | Real estate price analysis and visualization using Python and open datasets. |
+| [🏠 analisis-inmobiliario](https://github.com/JM181998/ANALISIS_INMOBILIARIO) | Real estate price analysis and visualization using Python and open datasets. |
 | [🎯 jjoo](https://github.com/JM181998/EDA-Olympics) | Exploratory Data Analysis (EDA) on the modern Olympic Games  from 1986 to 2012. |
 
 ---
